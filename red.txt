@@ -1,2 +1,7 @@
 profession, i have a question
- wo want to be a photograph
+<<<<<<< HEAD
+i want to be a bird
+=======
+
+i want to be a bird
+>>>>>>> featurel
